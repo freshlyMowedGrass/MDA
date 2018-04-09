@@ -1,0 +1,13 @@
+body {
+  background-color: rgba(0, 247, 255, 0.897);
+  height: 90%;
+  width: 90%;
+}
+
+.gaem {
+  margin: 400px;
+  display: flex;
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+}
